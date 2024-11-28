@@ -28,7 +28,7 @@ Red
           setcolor("#8338ec")
         }}>Purple</button>
       </div>
-      <div>faheelkhan</div>
+  
     </div>
   );
   
